@@ -42,20 +42,20 @@ git clone https://github.com/Slavka888/BusinessBot.git
 cd BusinessBot
 ```
 
-##🔨 Сборка проекта
+## 🔨 Сборка проекта
 
-###Используя Gradle Wrapper Linux
+### Используя Gradle Wrapper Linux
 
 ```bash
 ./gradlew build
 ```
-###Используя Gradle Wrapper Windows
+### Используя Gradle Wrapper Windows
 
 ```bash
 gradlew.bat build
 ```
 
-##▶️ Запуск проекта
+## ▶️ Запуск проекта
 
 ```bash
 # Используя Gradle Wrapper
